@@ -1,0 +1,2 @@
+sudo git config --local user.name "gxdai"
+sudo git config --local user.email "daiguoxian29@gmail.com"
